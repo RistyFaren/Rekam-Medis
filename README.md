@@ -1,7 +1,7 @@
 Matakuliah Pemrograman Website
 Kelompok 17
 Nama Anggota : 
-- Imelda Audina		    21082010003
+- Imelda Audina		    21082010003 (https://github.com/imeldaadn)
 - Risty Farentina 		21082010019
 
 Sistem Informasi Rekam Medis RS Mediacare merupakan website rekam medis yang dibuat dengan 2 user yaitu user pasien dan user admin.
